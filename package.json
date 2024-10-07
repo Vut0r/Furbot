@@ -1,0 +1,23 @@
+{
+  "name": "furbot",
+  "version": "1.0.0",
+  "description": "Twitch Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server",
+    "test": "echo \"Baboso\""
+  },
+  "keywords": [
+    "Furby",
+    "bot",
+    "Twitch",
+    "Twitchbot"
+  ],
+  "author": "Vutor",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5",
+    "tmi.js": "^1.8.5"
+  }
+}
